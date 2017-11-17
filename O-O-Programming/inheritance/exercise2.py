@@ -23,6 +23,7 @@ class InvalidEmailException(Exception):
 class InvalidUserNameException(Exception):
 	pass
 
+
 if __name__ == '__main__':
 	directory = {}
 
