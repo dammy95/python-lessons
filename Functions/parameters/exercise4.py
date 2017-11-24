@@ -1,5 +1,4 @@
 def calculator(num1, num2, operation='add', output_format='float'):
-  result = 0
 
   if operation == 'add':
     result = num1 + num2
